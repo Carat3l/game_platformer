@@ -1,0 +1,15 @@
+SCREEN_WIDTH = 1280
+SCREEN_HEIGHT = 720
+SCREEN_TITLE = "Space Platformer"
+
+GRAVITY = 1.0
+PLAYER_SPEED = 6
+PLAYER_JUMP = 20
+
+TILE_SCALING = 0.5
+PLAYER_SCALING = 0.08
+
+LEVEL_COUNT = 15
+
+ASSETS_PATH = "game_data/assets/"
+LEVELS_PATH = "game_data/levels/"
